@@ -330,38 +330,38 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #FF6B6B url("../faces/julia.jpeg"); /* Drizzling Rain */
+    background: #FF6B6B url("images/julia.jpeg"); /* Drizzling Rain */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
   }
 .tile.tile-4 .tile-inner {
-    background: #FDFFB6 url("../faces/james.webp"); /* Cream */
+    background: #FDFFB6 url("images/james.jpg"); /* Cream */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center; }
 .tile.tile-8 .tile-inner {
-    background: #04E762 url("../faces/diego.webp"); /* Jungle Green */
+    background: #04E762 url("images/diego.jpg"); /* Jungle Green */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center; }
 .tile.tile-16 .tile-inner {
-    background: #FFA69E url("../faces/drake.jpeg"); /* Salmon */
+    background: #FFA69E url("images/drake.jpeg"); /* Salmon */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center; }
 .tile.tile-32 .tile-inner {
-    background: #B8F3FF url("../faces/jeff.jpeg"); /* Light Sky Blue */
+    background: #B8F3FF url("images/jeff.jpeg"); /* Light Sky Blue */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center; }
 .tile.tile-64 .tile-inner {
-    background: #FFC947 url("../faces/clavin.jpeg"); /* Honey Yellow Kitty */
+    background: #FFC947 url("images/clavin.jpeg"); /* Honey Yellow */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
 .tile.tile-128 .tile-inner {
-    background: #873260 url("../faces/soham.jpg"); /* Wine Alicia */
+    background: #873260 url("images/soham.jpg"); /* Wine */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
@@ -369,7 +369,7 @@ hr {
     .tile.tile-128 .tile-inner {
         font-size: 25px; } }
 .tile.tile-256 .tile-inner {
-    background: #3EDBF0 url("stack/gift.png"); /* Turquoise Blue Owen */
+    background: #3EDBF0 url("stack/gift.png"); /* Turquoise Blue */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
@@ -377,7 +377,7 @@ hr {
     .tile.tile-256 .tile-inner {
         font-size: 25px; } }
 .tile.tile-512 .tile-inner {
-    background: #FF905D url("stack/cupcake.png"); /* Tangerine Soham */
+    background: #FF905D url("stack/cupcake.png"); /* Tangerine  */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
@@ -385,7 +385,7 @@ hr {
     .tile.tile-512 .tile-inner {
         font-size: 25px; } }
 .tile.tile-1024 .tile-inner {
-    background: #EDF2FB url("/stack/cake.png"); /* Baby Blue   Me */
+    background: #EDF2FB url("images/mannat.png"); /* Baby Blue   Me */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
