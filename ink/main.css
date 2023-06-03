@@ -356,7 +356,7 @@ hr {
     background-repeat: no-repeat;
     background-position: center; }
 .tile.tile-64 .tile-inner {
-    background: #FFC947 url("images/clavin.jpeg"); /* Honey Yellow */
+    background: #FFC947 url("images/alicia.jpg"); /* Honey Yellow */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
@@ -369,7 +369,7 @@ hr {
     .tile.tile-128 .tile-inner {
         font-size: 25px; } }
 .tile.tile-256 .tile-inner {
-    background: #3EDBF0 url("images/alicia.jpg"); /* Turquoise Blue */
+    background: #3EDBF0 url("images/clavin.jpg"); /* Turquoise Blue */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
