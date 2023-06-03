@@ -369,7 +369,7 @@ hr {
     .tile.tile-128 .tile-inner {
         font-size: 25px; } }
 .tile.tile-256 .tile-inner {
-    background: #3EDBF0 url("stack/gift.png"); /* Turquoise Blue */
+    background: #3EDBF0 url("images/alicia.jpg"); /* Turquoise Blue */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
@@ -377,7 +377,7 @@ hr {
     .tile.tile-256 .tile-inner {
         font-size: 25px; } }
 .tile.tile-512 .tile-inner {
-    background: #FF905D url("stack/cupcake.png"); /* Tangerine  */
+    background: #FF905D url("images/conway.jpg"); /* Tangerine  */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
@@ -385,7 +385,7 @@ hr {
     .tile.tile-512 .tile-inner {
         font-size: 25px; } }
 .tile.tile-1024 .tile-inner {
-    background: #EDF2FB url("images/mannat.jpeg"); /* Baby Blue   Me */
+    background: #EDF2FB url("images/mannat.jpg"); /* Baby Blue   Me */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;  }
